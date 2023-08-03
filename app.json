@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "https://icons8.com/preloaders/preloaders/980/Ghana%20cedi%20sign%20spinning-128.gif",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e40d38b7-4eb2-4d91-9bee-87aec1198255"
+      }
+    },
+    "owner": "silverdollor"
   }
 }
